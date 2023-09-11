@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding:0%;
+    margin: 0%;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+   
+
+}
+
+.Conatiner{
+    width:50%;
+    height: 90vh;
+    border-radius:50px;
+}
+
+.slackDisplayImage img{
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 100%;
+    border-radius: 50px;
+    border: 50px;
+    justify-items: center;
+}
